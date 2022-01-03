@@ -1,0 +1,16 @@
+/*Variáveis*/
+:root {
+  --vermelho: #e50914;
+  --preta: #141414;
+}
+
+body {
+  background: var(--preta);
+  font-family: 'Arial', Times, serif;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: #e50914;
+}
